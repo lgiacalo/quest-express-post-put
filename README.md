@@ -2,6 +2,11 @@
 
 This application provides a simple API for user management.
 
+## Challenge
+
+![post](./img/challenge_post.png)
+![put](./img/challenge_put.png)
+
 **Follow the instructions below!**
 
 ## 1. Get it
